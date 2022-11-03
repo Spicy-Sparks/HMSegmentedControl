@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "HMSegmentedControl"
+  s.name         = "HMSegmentedControl-Enhanced"
   s.version      = "1.5.6"
   s.summary      = "A drop-in replacement for UISegmentedControl mimicking the style of the one in Google Currents and various other Google products."
   s.homepage     = "https://github.com/HeshamMegid/HMSegmentedControl"
