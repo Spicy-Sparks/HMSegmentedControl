@@ -260,7 +260,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1030;
-				ORGANIZATIONNAME = HeshamMegid;
+				ORGANIZATIONNAME = Spicy-Sparks;
 				TargetAttributes = {
 					9C1632D71DA57134001FB468 = {
 						CreatedOnToolsVersion = 8.0;
@@ -498,7 +498,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = Framework/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.heshammegid.HMSegmentedControl;
+				PRODUCT_BUNDLE_IDENTIFIER = com.spicysparks.HMSegmentedControl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -517,7 +517,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = Framework/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.heshammegid.HMSegmentedControl;
+				PRODUCT_BUNDLE_IDENTIFIER = com.spicysparks.HMSegmentedControl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -530,7 +530,7 @@
 				DEVELOPMENT_TEAM = C75GEDTP26;
 				INFOPLIST_FILE = "$(SRCROOT)/HMSegmentedControlExample/HMSegmentedControlExample-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.heshammegid.HMSegmentedControlExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.spicysparks.HMSegmentedControlExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "HMSegmentedControlExample/HMSegmentedControlExample-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -545,7 +545,7 @@
 				DEVELOPMENT_TEAM = C75GEDTP26;
 				INFOPLIST_FILE = "$(SRCROOT)/HMSegmentedControlExample/HMSegmentedControlExample-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.heshammegid.HMSegmentedControlExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.spicysparks.HMSegmentedControlExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "HMSegmentedControlExample/HMSegmentedControlExample-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;

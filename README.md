@@ -9,11 +9,11 @@ HMSegmentedControl
 A highly customizable drop-in replacement for UISegmentedControl, used by more than 22,000 apps, including TikTok, PayPal, Imgur and Bleacher Report.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/6.PNG" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/6.PNG" width="70%">
 <br /><br />
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/8.jpeg" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/8.jpeg" width="70%">
 <br /><br />
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/7.PNG" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/7.PNG" width="70%">
 </div>
 
 
@@ -55,30 +55,32 @@ Included is a demo project showing how to fully customize HMSegmentedControl.
 # Possible Styles
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/1.png" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/1.png" width="70%">
 <br /><br />
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/2.png" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/2.png" width="70%">
 <br /><br />
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/3.png" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/3.png" width="70%">
 <br /><br />
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/4.png" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/4.png" width="70%">
 <br /><br />
-<img src="https://raw.githubusercontent.com/HeshamMegid/HMSegmentedControl/master/Screenshots/5.png" width="70%">
+<img src="https://raw.githubusercontent.com/Spicy-Sparks/HMSegmentedControl/master/Screenshots/5.png" width="70%">
 </div>
 
 # Apps Using HMSegmentedControl
 
-If you are using HMSegmentedControl in your app or know of an app that uses it, please add it to [this list](https://github.com/HeshamMegid/HMSegmentedControl/wiki/Apps-using-HMSegmentedControl).
+If you are using HMSegmentedControl in your app or know of an app that uses it, please add it to [this list](https://github.com/Spicy-Sparks/HMSegmentedControl/wiki/Apps-using-HMSegmentedControl).
 
 # Need Help?
-  
+
 If you need help with HMSegmentedControl, or with iOS/Swift development in general, check out [swiftmentor.io](https://swiftmentor.io)
 
 # License
+
+This package is a fork of [HMSegmentedControl by HeshamMegid](https://github.com/HeshamMegid/HMSegmentedControl).
 
 HMSegmentedControl is licensed under the terms of the MIT License. Please see the [LICENSE](LICENSE.md) file for full details.
 
 If this code was helpful, I would love to hear from you.
 
-[@HeshamMegid](http://twitter.com/HeshamMegid)   
-[http://hesh.am](http://hesh.am)
+[@Spicy_Sparks](http://twitter.com/Spicy_Sparks)   
+[https://spicysparks.com](https://spicysparks.com)
