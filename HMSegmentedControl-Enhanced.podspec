@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author       = { "Spicy Sparks" => "hello@spicysparks.com" }
   s.source       = { :git => "https://github.com/Spicy-Sparks/HMSegmentedControl.git", :tag => "v1.5.7" }
-  s.platform     = { :ios => "7.0", :tvos => "11.0" }
+  s.platform     = :ios, '7.0'
   s.ios.deployment_target = "7.0"
   s.tvos.deployment_target = "11.0"
   s.requires_arc = true
