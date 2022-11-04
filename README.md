@@ -1,10 +1,10 @@
 HMSegmentedControl
 ===
 
-[![Pod Version](http://img.shields.io/cocoapods/v/HMSegmentedControl.svg?style=flat)](http://cocoadocs.org/docsets/HMSegmentedControl)
+[![Pod Version](http://img.shields.io/cocoapods/v/HMSegmentedControl-Enhanced.svg?style=flat)](http://cocoadocs.org/docsets/HMSegmentedControl-Enhanced)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Pod Platform](http://img.shields.io/cocoapods/p/HMSegmentedControl.svg?style=flat)](http://cocoadocs.org/docsets/HMSegmentedControl)
-[![Pod License](http://img.shields.io/cocoapods/l/HMSegmentedControl.svg?style=flat)](http://opensource.org/licenses/MIT)
+[![Pod Platform](http://img.shields.io/cocoapods/p/HMSegmentedControl-Enhanced.svg?style=flat)](http://cocoadocs.org/docsets/HMSegmentedControl-Enhanced)
+[![Pod License](http://img.shields.io/cocoapods/l/HMSegmentedControl-Enhanced.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 A highly customizable drop-in replacement for UISegmentedControl, used by more than 22,000 apps, including TikTok, PayPal, Imgur and Bleacher Report.
 
@@ -29,7 +29,7 @@ A highly customizable drop-in replacement for UISegmentedControl, used by more t
 # Installation
 
 ```
-pod 'HMSegmentedControl'
+pod 'HMSegmentedControl-Enhanced'
 ```
 
 Installation via Carthage is also supported..
